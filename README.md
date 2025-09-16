@@ -25,6 +25,8 @@ However, Ridge Regression seems to convey around 30% price distribution. On the 
 In terms of impact to the business, most of the data categories in the dataset seem to not have a relevant effect as to what factors determine the prices of the cars. It may be beneficial to explore more categories of data to add to the dataset. Regardless, there are no noticeable problems with the data preprocessing phase.
 
 As the use of Ridge Regression retains more variables and has better performance than Lasso, it is a better modeling technique for this task with strong predictors being odometer and the age of the car. On the other hand, the results from Lasso regression indicates that most of the data categories in the dataset are not good indicators of relation to the prices of the cars.
+<img width="910" height="420" alt="image" src="https://github.com/user-attachments/assets/de601149-6119-4afa-be29-30b76f6446b5" />
+
 
 
 **DEPLOYMENT**
